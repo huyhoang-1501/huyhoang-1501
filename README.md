@@ -53,7 +53,7 @@ I'm currently working on:
 ## 📫 Contact
 If you’re interested in collaborating or discussing embedded systems, feel free to reach out!
 
-📧 **Email:** *huyhoang1501hd@gmail.com*  
+📧 **Email:** *huyhoang123456789f@gmail.com*  
 
 ---
 
