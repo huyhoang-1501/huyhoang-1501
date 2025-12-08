@@ -1,9 +1,9 @@
-# 👋 Hi, I'm **Huy Hoàng**
+# 👋 Hi, I'm Huy Hoàng
 
-🔹 Embedded Developer • IoT Enthusiast • Computer Vision Learner  
-🔹 Passionate about **C, Python, Raspberry Pi, ESP8266/ESP32, Firebase**, and building practical tech projects.
+**Embedded Developer • IoT Enthusiast • Computer Vision Learner**
 
-I love turning ideas into real working systems — from IoT monitoring, BLE connectivity, to image processing for automation.
+I enjoy building real-world systems using microcontrollers, low-level programming, IoT platforms, and image processing.  
+My focus is on creating practical and optimized embedded solutions — from sensors and wireless communication to cloud-connected devices.
 
 ---
 
@@ -16,29 +16,44 @@ I love turning ideas into real working systems — from IoT monitoring, BLE conn
 
 ## 💻 Tech Stack
 
-### 🔸 Languages & Tools
+### 🔹 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🔹 Development Platforms
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi)
+![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logo=espressif)
+![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif)
+
+### 🔹 Tools & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-### ⭐ GitHub Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=huyhoang-1501&theme=radical)
-
-### 🔥 Contribution Streak
-![Streak Stats](https://streak-stats.demolab.com?user=huyhoang-1501&theme=radical)
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoang-1501&layout=compact&theme=radical)
+## 🚀 Highlighted Interests
+- Embedded system architecture  
+- IoT monitoring & wireless communication  
+- BLE & ESP-NOW  
+- Image processing (OpenCV)  
+- Cloud-connected systems with Firebase  
+- Real-time applications on Raspberry Pi / MCU  
 
 ---
 
-## 🔢 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=huyhoang-1501&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📌 Current Focus
+I'm currently working on:
+- **IoT systems with dual ESP8266 nodes**
+- **Raspberry Pi applications with sensor data**
+- **Building organized and scalable embedded codebases**
 
 ---
+
+## 📫 Contact
+If you’re interested in collaborating or discussing embedded systems, feel free to reach out!
+
+📧 **Email:** *huyhoang1501hd@gmail.com*  
+
+---
+
