@@ -27,9 +27,14 @@ I love turning ideas into real working systems — from IoT monitoring, BLE conn
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=huyhoang-1501&theme=radical&hide_border=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=huyhoang-1501&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoang-1501&theme=radical&hide_border=false&layout=compact)
+### ⭐ GitHub Stats
+![GitHub Stats](https://streak-stats.demolab.com?user=huyhoang-1501&theme=radical)
+
+### 🔥 Contribution Streak
+![Streak Stats](https://streak-stats.demolab.com?user=huyhoang-1501&theme=radical)
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoang-1501&layout=compact&theme=radical)
 
 ---
 
