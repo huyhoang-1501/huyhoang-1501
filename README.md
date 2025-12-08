@@ -16,23 +16,23 @@ My focus is on creating practical and optimized embedded solutions — from sens
 
 ## 💻 Tech Stack
 
-### 🔹 Languages
+###  Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🔹 Development Platforms
+###  Development Platforms
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi)
 ![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logo=espressif)
 ![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif)
 
-### 🔹 Tools & Cloud
+###  Tools & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Highlighted Interests
+##  Highlighted Interests
 - Embedded system architecture  
 - IoT monitoring & wireless communication  
 - BLE & ESP-NOW  
@@ -42,7 +42,7 @@ My focus is on creating practical and optimized embedded solutions — from sens
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 I'm currently working on:
 - **IoT systems with dual ESP8266 nodes**
 - **Raspberry Pi applications with sensor data**
