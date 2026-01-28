@@ -45,7 +45,7 @@ My focus is on creating practical and optimized embedded solutions — from sens
 
 ##  Current Focus
 I'm currently working on:
-- **IoT systems with dual ESP8266 nodes**
+- **IoT systems with dual ESP8266/ESP32 nodes**
 - **Raspberry Pi applications with sensor data**
 - **Building organized and scalable embedded codebases**
 - **Custom bootloader design on STM32**
