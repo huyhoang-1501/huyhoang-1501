@@ -24,6 +24,7 @@ My focus is on creating practical and optimized embedded solutions — from sens
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi)
 ![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logo=espressif)
 ![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif)
+![STM32](https://img.shields.io/badge/STM32-%230032A0.svg?style=for-the-badge)
 
 ###  Tools & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -47,6 +48,8 @@ I'm currently working on:
 - **IoT systems with dual ESP8266 nodes**
 - **Raspberry Pi applications with sensor data**
 - **Building organized and scalable embedded codebases**
+- **Custom bootloader design on STM32**
+- **FOTA implementation for STM32 / Raspberry Pi**
 
 ---
 
