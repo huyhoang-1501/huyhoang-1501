@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huy Hoàng
 
-**Embedded Developer • IoT Enthusiast • Computer Vision Learner**
+**Embedded Developer • IoT Enthusiast**
 
 I enjoy building real-world systems using microcontrollers, low-level programming, IoT platforms, and image processing.  
 My focus is on creating practical and optimized embedded solutions — from sensors and wireless communication to cloud-connected devices.
@@ -45,7 +45,7 @@ My focus is on creating practical and optimized embedded solutions — from sens
 
 ##  Current Focus
 I'm currently working on:
-- **IoT systems with dual ESP8266/ESP32 nodes**
+- **IoT system with multiple sensor nodes**
 - **Raspberry Pi applications with sensor data**
 - **Building organized and scalable embedded codebases**
 - **Custom bootloader design on STM32**
